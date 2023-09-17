@@ -19,6 +19,10 @@ const navLinks=[
         title:"Services",
     },
     {
+        path:'/blogs',
+        title:"Blogs",
+    },
+    {
         path:'/dashboard',
         title:"Dashboard",
     },
