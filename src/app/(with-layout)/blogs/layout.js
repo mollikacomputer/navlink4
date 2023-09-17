@@ -7,7 +7,9 @@ export const metadata = {
 const layout = ({children}) => {
     return (
         <div>
+            <h2 className='text-2xl font-semibold text-center'>Blog Page</h2>
             {children}
+            
         </div>
     );
 };
